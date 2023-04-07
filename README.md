@@ -1,6 +1,6 @@
 # Python_scripting
 
- Python scripting Project (python_scripting_data folder : source data | target folder : what the script transforms data into)
+## Python scripting Project (python_scripting_data folder : source data | target folder : what the script transforms data into)
  
  - Assumptions:
 
